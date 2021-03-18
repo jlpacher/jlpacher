@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jlpacher
+- 👋 Hi, I’m @jlpacher.
+- 
 I am a data scientist with succesfull experience in business for many years.
 I am specialized in Data Science, graduated in Engineering with post-graduation in Business Administration.
 Specialization in Digital Transformation in the Supply Chain and a MBA in Data Science started.
