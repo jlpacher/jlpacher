@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @jlpacher.   
 I am a data scientist with succesfull experience in business for many years.   
-I am specialized in Data Science, graduated in Engineering with post-graduation in Business Administration.   
-Specialization in Digital Transformation in the Supply Chain and a MBA in Data Science started.   
-I started my transition career to data science in 2020 and since then I continue to improve my skills through courses and a lot of self-study.   
-My experience in business comes from the direction committee member position during more than 10 years.   
-Furthermore I acted as supply chain manager and manufacturing manager, leading teams in multi-sites.   
+I am specialized in Data Science, graduated in Engineering with post-graduation in Business Administration.    
+I started my career transition to data science in 2019 and since then I continue to improve my skills through courses, self-study and professional performance.      
 I am a fast learning person and I am not afraid about skills I don’t have yet because I know I can conquer it.   
 - 👀 I’m interested in learning and working on projects related to Data Science.   
 - 🌱 I’m currently learning MBA in Data Science at USP - Universidade de Sao Paulo.   
