@@ -6,8 +6,7 @@ My data science experience comes from professional and academic background, lead
      
 💞️ I love learning, challenges and changes!   
 📫 joao.pacher@yahoo.com.br
-ℹ️ℹ️ℹ️
-![image](https://github.com/jlpacher/jlpacher/assets/80042677/457d594a-01c2-4eea-94ee-43e7f5f67090) https://www.linkedin.com/in/joaopacher/
+ℹ️   https://www.linkedin.com/in/joaopacher/
 
 
 <!---
