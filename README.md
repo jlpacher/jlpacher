@@ -5,7 +5,7 @@ Master's degree candidate, MBA in Data Science, graduated in Chemical Engineerin
 My data science experience comes from professional and academic background, leading projects in python and SQL codes in GCP environment.      
      
 💞️ I love learning, challenges and changes!   
-📫 joao.pacher@yahoo.com.br
+📫 joao.pacher@yahoo.com.br   
 ℹ️   https://www.linkedin.com/in/joaopacher/
 
 
